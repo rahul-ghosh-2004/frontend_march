@@ -1,0 +1,7 @@
+1. Explain about vite-react folder and file structures.
+2. Create fresh vite-react project with named 01-assignment.
+3. Create fresh vite-react project with named 02-assignment.
+4. Create fresh vite-react project with named 03-assignment.
+
+
+---> cd dir_name  --->  npm i / npm install  --->  npm run dev
